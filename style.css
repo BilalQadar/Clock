@@ -1,0 +1,57 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 1em
+}
+
+h1 {
+  font-size: 200px;
+  font-family: 'Nanum Gothic Coding', monospace;
+  color: #000000;
+  text-align: center;
+  background-color: #dbdbdb;
+  border-radius: 25px;
+} 
+
+h2{
+  font-size: 70px;
+  font-family: 'Major Mono Display', monospace;
+}
+
+
+.center { 
+  text-align: center;
+}
+
+button{
+  font-size: 30px;
+  font-family: 'Major Mono Display', monospace;
+  width: 200px;
+  height: 350px;
+  margin-right: 50px;
+  border-radius: 25px;
+}
+
+button:hover {
+    background-color: #efefef
+}
+
+.countdown{
+  font-size: 24px;
+  font-family: 'Major Mono Display', monospace;
+  width: 200px;
+  height: 350px;
+  margin-right: 50px;
+  border-radius: 25px;
+}
+
+.countdown:hover {
+    background-color: #efefef
+}
+
+a{
+  text-decoration: none; 
+  color: #000000;
+  
+}
